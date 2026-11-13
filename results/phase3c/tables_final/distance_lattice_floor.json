@@ -1,0 +1,112 @@
+[
+  {
+    "id": "C006",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09603575110198417,
+    "nearest_lattice_cost_interval": [
+      0.02314415369250351,
+      0.024882144032846432
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C036",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09478914875344129,
+    "nearest_lattice_cost_interval": [
+      0.022821916650829038,
+      0.024558785033761462
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C008",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.093271178995234,
+    "nearest_lattice_cost_interval": [
+      0.022440006277898477,
+      0.024176964803379497
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C043",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09553146057562986,
+    "nearest_lattice_cost_interval": [
+      0.023013894523614742,
+      0.024751747380821355
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C000",
+    "xi": 0.225,
+    "graph_normalized_hop": 0.09492243425762616,
+    "nearest_lattice_cost_interval": [
+      0.022845700469704466,
+      0.02458603472375243
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C047",
+    "xi": 0.225,
+    "graph_normalized_hop": 0.09697859804637202,
+    "nearest_lattice_cost_interval": [
+      0.02336323767647282,
+      0.025104286036708473
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C049",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09396787024645309,
+    "nearest_lattice_cost_interval": [
+      0.022611122745633077,
+      0.02434807253473036
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C110",
+    "xi": 0.225,
+    "graph_normalized_hop": 0.09448129137959223,
+    "nearest_lattice_cost_interval": [
+      0.022740760611856845,
+      0.02448121262880648
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C002",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09162144396289028,
+    "nearest_lattice_cost_interval": [
+      0.022043753323750758,
+      0.02378057139094007
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C012",
+    "xi": 0.225,
+    "graph_normalized_hop": 0.0952789628984622,
+    "nearest_lattice_cost_interval": [
+      0.022931594769340462,
+      0.02467207108270594
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  },
+  {
+    "id": "C011",
+    "xi": 0.25,
+    "graph_normalized_hop": 0.09165836068425415,
+    "nearest_lattice_cost_interval": [
+      0.022052806601160584,
+      0.023789892031116904
+    ],
+    "interpretation": "LowerboundonW1toANYlawongraphintegerhopgrid;intervalfromsavedfieldCDFbins,notMCCI"
+  }
+]

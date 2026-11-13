@@ -1,0 +1,450 @@
+{
+  "stage": "independent_confirmation",
+  "status": "frozen_by_coordinator",
+  "frozen_before_confirmation": true,
+  "metric_jobs_authorized": true,
+  "scientific_question": "Do observed extendedcandidatebands andtheir signedhigherpointprofiles reproduceonindependentseeds andricherLFPPpaths,withoutretuningparameterrelations?",
+  "hypotheses": {
+    "birectangular_level_segment": {
+      "ids": [
+        "C006",
+        "C036",
+        "C008",
+        "C043"
+      ],
+      "nominal_xi": 0.25,
+      "meaning": "oneplausiblefixed-parameterlevelsethypothesis,notprovenequivalentgeometries"
+    },
+    "negative_equicorrelation_region": {
+      "ids": [
+        "C000",
+        "C047"
+      ],
+      "nominal_xi": 0.225,
+      "transition_id": "C049",
+      "transition_xi": 0.25,
+      "meaning": "set-valuedprofileunderdiscoveryuncertainty,notidentifiedsmoothPhi"
+    },
+    "asymmetric_extension": {
+      "ids": [
+        "C110"
+      ],
+      "nominal_xi": 0.225
+    },
+    "anchors_and_challenges": {
+      "ids": [
+        "C002",
+        "C012",
+        "C011"
+      ],
+      "note": "I3andnearzeroequiwerenotcomponentwise-compatibleindiscovery;retainnegativeevidence"
+    }
+  },
+  "profiles_frozen_from_discovery": {
+    "C006": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C036": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C008": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C043": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C000": {
+      "nominal_xi": 0.225,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 0.8500125805107451,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C047": {
+      "nominal_xi": 0.225,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 0.8500125805107451,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C049": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "transitionchallenge"
+    },
+    "C110": {
+      "nominal_xi": 0.225,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 0.8500125805107451,
+      "role": "candidatefamilyrepresentative"
+    },
+    "C002": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "exactorgridanchorwithknownlimitations"
+    },
+    "C012": {
+      "nominal_xi": 0.225,
+      "discovery_robust_low_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [
+        0.175,
+        0.2,
+        0.225,
+        0.25,
+        0.2625
+      ],
+      "nominal_gmc_gamma": 0.8500125805107451,
+      "role": "exactorgridanchorwithknownlimitations"
+    },
+    "C011": {
+      "nominal_xi": 0.25,
+      "discovery_robust_low_xis": [
+        0.25,
+        0.2625
+      ],
+      "discovery_componentwise_xis": [],
+      "nominal_gmc_gamma": 1.0077091962749343,
+      "role": "poor-fit positivebirectangular comparator inthisxirange"
+    }
+  },
+  "discovery_scores": "results/phase3c/families/refinement/analysis/scores.json",
+  "discovery_scores_sha256": "38183ab39275bad968f2faea4138223251ddb599384521cad97f7984bba39ced",
+  "xis": [
+    0,
+    0.175,
+    0.2,
+    0.225,
+    0.25,
+    0.2625
+  ],
+  "gamma_rule": "modelwise_lambda",
+  "calibration": "results/phase3b/calibration/analysis/calibration.json",
+  "points": 16,
+  "bins": 1024,
+  "sizes": [
+    32,
+    48
+  ],
+  "stencils_by_n": {
+    "32": "primitive2",
+    "48": "primitive2",
+    "64": "primitive2"
+  },
+  "builder": "periodic_kernel",
+  "log_gamma_bands": [
+    "central",
+    "low",
+    "high"
+  ],
+  "diagnostic_model_controls": [
+    "log"
+  ],
+  "global_calibration_models": [
+    "all_plain",
+    "drop_smallest",
+    "largest_three",
+    "all_Ninv_half",
+    "all_Ninv"
+  ],
+  "primary_probe_labels": [
+    "central",
+    "low",
+    "high"
+  ],
+  "global_model_scope": "namedalternativelambdacurvesarecoherentacrossallxi/C;nevergammaoptimizedindependentlyperC",
+  "smooth_xis": [
+    0.175,
+    0.225,
+    0.2625
+  ],
+  "smooth_gamma_bands": [
+    "central"
+  ],
+  "smooth_field_ids": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007
+  ],
+  "smooth_radius": 2,
+  "physical_holdout_ids": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023
+  ],
+  "n64_extension": {
+    "enabled": true,
+    "field_ids": [
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "xis": [
+      0.2,
+      0.225,
+      0.25
+    ],
+    "control": "log",
+    "parent_grid": 48,
+    "n": 64,
+    "maximum_working_memory_mb": 1500,
+    "pilot_reference": "results/phase3c/fields/confirmation_preparation/n64_deterministic_pilot.json"
+  },
+  "matched_stencil_control": {
+    "field_ids": [
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "xis": [
+      0.2,
+      0.225,
+      0.25
+    ],
+    "n": 48,
+    "stencil": "26",
+    "gamma_bands": [
+      "central"
+    ]
+  },
+  "primary_normalization": "ensemble_mean",
+  "normalization_sensitivity": "ensemble_median",
+  "gauges": [
+    "grounded",
+    "unit_mass"
+  ],
+  "graph_ids": [
+    "C006",
+    "C036",
+    "C008",
+    "C043",
+    "C000",
+    "C047",
+    "C049",
+    "C110",
+    "C002",
+    "C012",
+    "C011"
+  ],
+  "graph_seed_base": 202611123931,
+  "graph_parents": 16,
+  "graph_sizes": [
+    8192
+  ],
+  "design": "results/phase3c/adaptive/design.json",
+  "ritz_degree": 6,
+  "initial_candidates": 2048,
+  "reference_q": 128,
+  "base_step": 0.0025,
+  "relative_step": 0.05,
+  "exit_order": 12,
+  "larger_graph_scope_decision": "Discoveryn16384pilotC119retained2322130points>predeclared1500000budget;respectfallbackn8192,noenlargedgeneralbatch. Pilotcompletednotmathematicallyfailed.",
+  "graph_runtime_seconds_estimate": [
+    350,
+    650
+  ],
+  "graph_memory_mb_estimate": 600,
+  "field_runtime_seconds_estimate": [
+    900,
+    1800
+  ],
+  "field_memory_mb_estimate": 1000,
+  "N64_additional_seconds_estimate": [
+    240,
+    450
+  ],
+  "batch_policy": "atmost2graphconfigsor6fieldsperinvocation;N64fourfieldsperbatch;perrealizationcheckpoints",
+  "no_holdout_tuning": true,
+  "robust_sensitivity_is_sufficient_not_necessary": true,
+  "primary_success_interpretation": "frozenlowJandcomponentwise/signedprofilesarefinite-screeningdiagnostics;independentmatrixenergy,negativecontrols,finite-sizeandsamplererrorsmustalsoassessed;notcontinuumequalitytest",
+  "enable_n64": true,
+  "n64_field_ids": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007
+  ],
+  "n64_xis": [
+    0.2,
+    0.225,
+    0.25
+  ],
+  "n64_gamma_bands": [
+    "central"
+  ],
+  "n64_deterministic_pilot": "results/phase3c/fields/confirmation_preparation/n64_deterministic_pilot.json",
+  "n64_memory_budget_bytes": 1500000000,
+  "n64_comparison": "same8parentsatN48andN64,not24versus8",
+  "primary_score_probe_labels": [
+    "central",
+    "low",
+    "high"
+  ],
+  "global_calibration_curve_required": true,
+  "no_independent_gamma_optimization_per_C": true,
+  "freeze_timing": "beforeanyindependentconfirmationfieldorgraph",
+  "log_xi_execution_subset": [
+    0.175,
+    0.2,
+    0.225,
+    0.25,
+    0.2625
+  ],
+  "xi_zero_execution": "flatcontrolonly,avoidduplicatinglogzero"
+}

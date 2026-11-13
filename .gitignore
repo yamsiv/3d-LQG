@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local plot configuration
+.mplconfig/
+
+# Large generated research simulation data
+# Important: these files are backed up separately.
+/results/phase2b/
+/results/phase2c/
+/results/phase3a/
+/results/phase3b/
+/results/phase3c/

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "budd-castro-graphs"
+version = "0.1.0"
+description = "Reproducible finite-volume mated-CRT graph experiments"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0", "scipy>=1.14", "matplotlib>=3.9"]
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

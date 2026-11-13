@@ -1,0 +1,324 @@
+[
+  {
+    "xi": 0.0,
+    "gamma": 0.0,
+    "gamma_systematic": [
+      0.0,
+      0.0
+    ],
+    "dimension_proxy": 3,
+    "lambda_cross": null,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.0,
+      "drop_smallest": 0.0,
+      "largest_three": 0.0,
+      "all_Ninv_half": 0.0,
+      "all_Ninv": 0.0
+    },
+    "bootstrap_gamma_interval": [
+      0.0,
+      0.0
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.1,
+    "gamma": 0.3128615135135477,
+    "gamma_systematic": [
+      0.30158080751321376,
+      0.3128615135135477
+    ],
+    "dimension_proxy": 3.1286151351354765,
+    "lambda_cross": 0.025466210567645333,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.3128615135135477,
+      "drop_smallest": 0.3112870403269554,
+      "largest_three": 0.311306702257299,
+      "all_Ninv_half": 0.30158080751321376,
+      "all_Ninv": 0.3068181580274985
+    },
+    "bootstrap_gamma_interval": [
+      0.3112950751451468,
+      0.3155371929895199
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.125,
+    "gamma": 0.4013948671394669,
+    "gamma_systematic": [
+      0.38799833000660194,
+      0.4013948671394669
+    ],
+    "dimension_proxy": 3.2111589371157354,
+    "lambda_cross": 0.04067067996020314,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.4013948671394669,
+      "drop_smallest": 0.39896756195480954,
+      "largest_three": 0.40103042833645114,
+      "all_Ninv_half": 0.38799833000660194,
+      "all_Ninv": 0.39392946883421415
+    },
+    "bootstrap_gamma_interval": [
+      0.398532613789084,
+      0.4052453567581205
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.15,
+    "gamma": 0.4961900334195337,
+    "gamma_systematic": [
+      0.48098151762106944,
+      0.4979416990344351
+    ],
+    "dimension_proxy": 3.3079335561302248,
+    "lambda_cross": 0.05587514935276095,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.4961900334195337,
+      "drop_smallest": 0.4926265028723431,
+      "largest_three": 0.4979416990344351,
+      "all_Ninv_half": 0.48098151762106944,
+      "all_Ninv": 0.4872927108012086
+    },
+    "bootstrap_gamma_interval": [
+      0.4891676647865851,
+      0.5041308005683375
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.175,
+    "gamma": 0.6013540093428007,
+    "gamma_systematic": [
+      0.6007220514958577,
+      0.6080275574059135
+    ],
+    "dimension_proxy": 3.436308624816004,
+    "lambda_cross": 0.07435167513609281,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.6013540093428007,
+      "drop_smallest": 0.6007220514958577,
+      "largest_three": 0.6050103826187845,
+      "all_Ninv_half": 0.6080275574059135,
+      "all_Ninv": 0.6038860561856705
+    },
+    "bootstrap_gamma_interval": [
+      0.5956288453469025,
+      0.6105523389782612
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.2,
+    "gamma": 0.718265928275738,
+    "gamma_systematic": [
+      0.718265928275738,
+      0.7641084059430381
+    ],
+    "dimension_proxy": 3.5913296413786897,
+    "lambda_cross": 0.09282820091942467,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.718265928275738,
+      "drop_smallest": 0.7225904047186102,
+      "largest_three": 0.7247771918211376,
+      "all_Ninv_half": 0.7641084059430381,
+      "all_Ninv": 0.7404107074384982
+    },
+    "bootstrap_gamma_interval": [
+      0.7083913936059429,
+      0.7315828066895753
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.2125,
+    "gamma": 0.7818428481645072,
+    "gamma_systematic": [
+      0.7818428481645072,
+      0.8321563564308138
+    ],
+    "dimension_proxy": 3.6792604619506224,
+    "lambda_cross": 0.10154794589876524,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.7818428481645072,
+      "drop_smallest": 0.7860498678779604,
+      "largest_three": 0.7898552567588056,
+      "all_Ninv_half": 0.8321563564308138,
+      "all_Ninv": 0.8057640221142586
+    },
+    "bootstrap_gamma_interval": [
+      0.7704797457729362,
+      0.8046477798075335
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.225,
+    "gamma": 0.8500125805107451,
+    "gamma_systematic": [
+      0.8500125805107451,
+      0.9054377891208663
+    ],
+    "dimension_proxy": 3.7778336911588672,
+    "lambda_cross": 0.11026769087810583,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.8500125805107451,
+      "drop_smallest": 0.8540098441068927,
+      "largest_three": 0.8598600674630831,
+      "all_Ninv_half": 0.9054377891208663,
+      "all_Ninv": 0.8759036554532655
+    },
+    "bootstrap_gamma_interval": [
+      0.8368855337843722,
+      0.8892874686915221
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.2375,
+    "gamma": 0.9251889496985045,
+    "gamma_systematic": [
+      0.9251889496985045,
+      1.0030611542867998
+    ],
+    "dimension_proxy": 3.895532419783177,
+    "lambda_cross": 0.12002085288436383,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 0.9251889496985045,
+      "drop_smallest": 0.9306935312962962,
+      "largest_three": 0.9391483968666429,
+      "all_Ninv_half": 1.0030611542867998,
+      "all_Ninv": 0.9611639897787457
+    },
+    "bootstrap_gamma_interval": [
+      0.9117135249485427,
+      0.9773694699742018
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.25,
+    "gamma": 1.0077091962749343,
+    "gamma_systematic": [
+      1.0077091962749343,
+      1.1160467221994343
+    ],
+    "dimension_proxy": 4.030836785099737,
+    "lambda_cross": 0.12977401489062185,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 1.0077091962749343,
+      "drop_smallest": 1.0151665419636655,
+      "largest_three": 1.0270396735773453,
+      "all_Ninv_half": 1.1160467221994343,
+      "all_Ninv": 1.0569970153267925
+    },
+    "bootstrap_gamma_interval": [
+      0.9929593820680468,
+      1.0756087715712166
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.2625,
+    "gamma": 1.1028579227114703,
+    "gamma_systematic": [
+      1.1028579227114703,
+      1.2841380989169517
+    ],
+    "dimension_proxy": 4.201363515091315,
+    "lambda_cross": 0.14119599842212008,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 1.1028579227114703,
+      "drop_smallest": 1.1158322085802312,
+      "largest_three": 1.1330890028012917,
+      "all_Ninv_half": 1.2841380989169517,
+      "all_Ninv": 1.183233234602528
+    },
+    "bootstrap_gamma_interval": [
+      1.0877005192885734,
+      1.1853938888973565
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.275,
+    "gamma": 1.2119081766892765,
+    "gamma_systematic": [
+      1.2119081766892765,
+      1.5186086215555292
+    ],
+    "dimension_proxy": 4.406938824324642,
+    "lambda_cross": 0.15261798195361828,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 1.2119081766892765,
+      "drop_smallest": 1.2328016292078152,
+      "largest_three": 1.2579233416021598,
+      "all_Ninv_half": 1.5186086215555292,
+      "all_Ninv": 1.3397093046665545
+    },
+    "bootstrap_gamma_interval": [
+      1.1932765303239399,
+      1.3158573825632842
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.2875,
+    "gamma": 1.3396727222743743,
+    "gamma_systematic": [
+      1.3396727222743743,
+      1.7806877798178795
+    ],
+    "dimension_proxy": 4.659731207910867,
+    "lambda_cross": 0.1636080864951114,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 1.3396727222743743,
+      "drop_smallest": 1.364061929026353,
+      "largest_three": 1.405898886613957,
+      "all_Ninv_half": 1.7806877798178795,
+      "all_Ninv": 1.5066955868739909
+    },
+    "bootstrap_gamma_interval": [
+      1.3127760791874141,
+      1.4766062664434307
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  },
+  {
+    "xi": 0.3,
+    "gamma": 1.4983955130903075,
+    "gamma_systematic": [
+      1.4983955130903075,
+      1.7413066436620053
+    ],
+    "dimension_proxy": 4.994651710301025,
+    "lambda_cross": 0.17459819103660457,
+    "bootstrap_subcritical_fraction": 1.0,
+    "model_gammas": {
+      "all_plain": 1.4983955130903075,
+      "drop_smallest": 1.5286363262683922,
+      "largest_three": 1.6006868426222807,
+      "all_Ninv_half": null,
+      "all_Ninv": 1.7413066436620053
+    },
+    "bootstrap_gamma_interval": [
+      1.4495617805556322,
+      1.6973204524436878
+    ],
+    "scope": "Finite-resolutioncalibration;notlimitingtheoremparameter"
+  }
+]

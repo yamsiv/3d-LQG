@@ -1,0 +1,158 @@
+[
+  {
+    "id": "C002",
+    "parents": 24,
+    "beta": 0.24784027315309842,
+    "beta_mc95": [
+      0.24385380607672552,
+      0.25270363013338876
+    ],
+    "inverse_growth_proxy": 4.034856753818496,
+    "small_mean": 7.488750457763672,
+    "large_mean": 10.559031168619791,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C012",
+    "parents": 24,
+    "beta": 0.26293032684426687,
+    "beta_mc95": [
+      0.25941352127165324,
+      0.2674066535294439
+    ],
+    "inverse_growth_proxy": 3.803288924492526,
+    "small_mean": 7.302467346191406,
+    "large_mean": 10.514035860697428,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C006",
+    "parents": 24,
+    "beta": 0.25754105017284556,
+    "beta_mc95": [
+      0.2543064065374077,
+      0.2611237412361569
+    ],
+    "inverse_growth_proxy": 3.8828761447111524,
+    "small_mean": 7.478141784667969,
+    "large_mean": 10.68682893117269,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C036",
+    "parents": 24,
+    "beta": 0.254711601049507,
+    "beta_mc95": [
+      0.250976149439527,
+      0.25969893400364863
+    ],
+    "inverse_growth_proxy": 3.9260088503218,
+    "small_mean": 7.399211883544922,
+    "large_mean": 10.532637278238932,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C008",
+    "parents": 24,
+    "beta": 0.25569962556376025,
+    "beta_mc95": [
+      0.2515428553331375,
+      0.2608389181678606
+    ],
+    "inverse_growth_proxy": 3.9108387342970277,
+    "small_mean": 7.315500895182292,
+    "large_mean": 10.427749315897623,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C043",
+    "parents": 24,
+    "beta": 0.252918413897278,
+    "beta_mc95": [
+      0.24863761253105707,
+      0.25711567271689817
+    ],
+    "inverse_growth_proxy": 3.9538441847343977,
+    "small_mean": 7.317551930745442,
+    "large_mean": 10.390534083048502,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C000",
+    "parents": 24,
+    "beta": 0.26037821070109757,
+    "beta_mc95": [
+      0.255684573144519,
+      0.2651789329020663
+    ],
+    "inverse_growth_proxy": 3.8405671400359798,
+    "small_mean": 7.36440912882487,
+    "large_mean": 10.565771420796713,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C011",
+    "parents": 24,
+    "beta": 0.24000514264421843,
+    "beta_mc95": [
+      0.23665168051300597,
+      0.2447155966053127
+    ],
+    "inverse_growth_proxy": 4.166577386562051,
+    "small_mean": 7.795953114827474,
+    "large_mean": 10.873433748881022,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C047",
+    "parents": 24,
+    "beta": 0.257485798492135,
+    "beta_mc95": [
+      0.2535264804295965,
+      0.2604943724262127
+    ],
+    "inverse_growth_proxy": 3.8837093379755676,
+    "small_mean": 7.304012298583984,
+    "large_mean": 10.437185287475586,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C049",
+    "parents": 24,
+    "beta": 0.2545560498764016,
+    "beta_mc95": [
+      0.250439152025368,
+      0.25779026010327705
+    ],
+    "inverse_growth_proxy": 3.9284079104996517,
+    "small_mean": 7.368679046630859,
+    "large_mean": 10.486912727355957,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C110",
+    "parents": 24,
+    "beta": 0.2540034817879095,
+    "beta_mc95": [
+      0.24980725288425495,
+      0.25936045723968465
+    ],
+    "inverse_growth_proxy": 3.9369539069349866,
+    "small_mean": 7.42950439453125,
+    "large_mean": 10.565381368001303,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  },
+  {
+    "id": "C119",
+    "parents": 24,
+    "beta": 0.26488081661377155,
+    "beta_mc95": [
+      0.26103681808398205,
+      0.2686561625007619
+    ],
+    "inverse_growth_proxy": 3.7752828339325215,
+    "small_mean": 7.329844156901042,
+    "large_mean": 10.582027435302734,
+    "scope": "Paired2048to8192finitegrowth;notasymptoticdimension"
+  }
+]

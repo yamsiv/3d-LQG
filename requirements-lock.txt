@@ -1,0 +1,6 @@
+# Direct package versions used for the reported runs (Python 3.14.6, macOS arm64).
+# Transitive/platform dependencies are resolved by pip; this is not a full lock.
+numpy==2.5.1
+scipy==1.18.1
+matplotlib==3.11.1
+pytest==9.2.0

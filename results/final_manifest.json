@@ -1,0 +1,108 @@
+{
+  "date_utc": "2026-11-11T03:33:18.259472+00:00",
+  "python": "3.14.6 (v3.14.6:c63aec69bd5, Jun 10 2026, 08:07:54) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-12.7.5-arm64-arm-64bit-Mach-O",
+  "versions": {
+    "numpy": "2.5.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1",
+    "pytest": "9.2.0"
+  },
+  "git_commit": "1f396a5304acc2bd02eabe1042329fd257a259ed",
+  "git_status": "M .gitignore\n M README.md\n?? AGENTS.md\n?? Agents_Info/\n?? docs/\n?? experiments/\n?? papers/\n?? pyproject.toml\n?? requirements-lock.txt\n?? requirements.txt\n?? research-notes/\n?? results/\n?? src/\n?? tests/",
+  "source_sha256": {
+    "experiments/additional_geometry.py": "1c9c34511798580a45080681156bc48148094558718983966cb31db81332e9c1",
+    "experiments/analyze_collapse.py": "ffa87ab45d17bda8ce26306833fe689523c33a6d895e995a62f4f2c4ecdf6947",
+    "experiments/analyze_corrections.py": "d049c02534336eda7d399eed69300898f0c8e36ad8ce5f057f033e61d550e3da",
+    "experiments/benchmark.py": "b59607ca06dd7443d90e77fb61ad100cae02e9754746f782e96cc0d1ffaac7a8",
+    "experiments/build_tables.py": "f8ac7014f994ae57309aa46e2fec2ac4488bddb670d29901b80a73af1d4358de",
+    "experiments/combine_studies.py": "7f4cc316ed3710e56455c10f68074cc8d36abfaa38033a4c2a620c61e9d41d4a",
+    "experiments/cone_diagnostics.py": "7ab7a65dc66df82646dff0c907ae2f5b93e5fdc875af189e7360dc30ab43e669",
+    "experiments/parameter_sweep.py": "5a3774021f3afafd9bde9fc4c39314388b28d0b3795728ae12430d7d9e805c19",
+    "experiments/reproduce_budd_castro.py": "8b5b46a8046276dd47f8855519e0e52ab18cf6a2d4d7d3667cd95e874dc9aea7",
+    "experiments/sampler_sensitivity.py": "342f4768d534f746972033879ad4e761567464b8fc278965d201a40466c64c69",
+    "experiments/validate_sampler.py": "9f47cda08796f45d963befe82c418b8b2656b008c5ba58d6b080b9c690be20bb",
+    "experiments/weyl_resolution.py": "c50b4416d833e156b7ce2e93768e75e1a7014c35c96456fdc35f88974906838e",
+    "experiments/weyl_study.py": "e999e66fbe142e38a4354afc927faba5cd4619dc51f138250d0ae7b83dfb8920",
+    "papers/Budd_Castro.pdf": "69d3db62d3e65d4d2872d9d815a70335ae291aa081568662423921f252a3a434",
+    "src/__init__.py": "b51a3f211c31780444b931b0570df4a4f61abd1f4a76224651474799db1d41ff",
+    "src/brownian_excursions.py": "5c72957ce12a8b1851b66e146930d6efbd23398e477f78e0238ea2ff557396b9",
+    "src/cone_geometry.py": "b23e966ea5df6e61bf8d12af9c0eee224ce30bf11d44c4ae123e284f418fb18c",
+    "src/covariance.py": "ef11ee917ed08030706665e324ab1e94b7e2eb74955e67ef34d58f4dd21d63e5",
+    "src/finite_size_corrections.py": "d5e00d3c0c81840335a505626cae0ec59f9ed25b5448a0929f000b3ccfc1c76b",
+    "src/graph_metrics.py": "cfd210884c6a80bf6d450e6f0d3288260f97345b741e6884bddc2976b0752c95",
+    "src/mated_crt.py": "1b6ac4aa5736d57a258f7ddb725c54bde845c90486beddd8c5929df9bf32ea1b",
+    "src/provenance.py": "25bc780f55f97965b83d04744b3232d617bbc18191423b04325c39c22abf76e2",
+    "src/scaling_analysis.py": "04d768362be562f7d6fddd031290eb749fcadacba3a707824b17e8ff39cad208",
+    "src/secondary_observables.py": "7b15126b2912049976d25a5f4c681ea6cc6d82827590e4f65bbe54f02973f7dd",
+    "src/weyl_excursions.py": "dcd7e8f1f43cda3ec41183c20732042c6ab8faac68b5d0bd8c786d68a58568a3",
+    "tests/test_adjacency.py": "69ff4f887d5a8de6db0f9b2d91a1d9de7a3b0f9d94aae6ac085e61da2b7407af",
+    "tests/test_cone_geometry.py": "d39acd3817292d3e0ad4cbcf69ba5c81615fb699be925e5f4466a9998f9bc10f",
+    "tests/test_covariance.py": "0900eb09ef8dd3dac31e6683e92c164ecffedd8da7ad0b281ce98bbc9ca37918",
+    "tests/test_excursions.py": "8f2c9d002a55d2bade2dc325eeaa383a0910d4b8e07cfed693672d1a1d7a3fda",
+    "tests/test_finite_size_corrections.py": "3754faefc88ce65c73e21c5c9a3bc721c1383adac395058fdc7398311b6f7f81",
+    "tests/test_independent_validation.py": "a3eb1cce8338e04c9581ce53a4f3e414e02d3bac0e166bb8f195c056416e5f94",
+    "tests/test_metrics.py": "25fcfcb0c6aae0e03c05d6e63c791deb104ed9542cdb624770f65809e13bcfac",
+    "tests/test_weyl_excursions.py": "4e7e4aa91e41ed47f2cb0b11e1bd79d120d8ef4611f96dc6b32c6a6de341b60d",
+    "tests/test_weyl_validation.py": "6d3cf94407e070eaf2b9489e53619df2e352cf111d676c4832d97c7e64260713"
+  },
+  "primary_source": "Budd and Castro, arXiv:2207.05355v1, 12 July 2022",
+  "random_generator": "numpy.random.Generator(PCG64), explicit seeds",
+  "task": "Task1 graph phases1_2",
+  "validation_status": {
+    "independent_exact": "passed",
+    "A2_special_cone": "exact_grid_law_and_metric_resolution_pilot_passed",
+    "general_SPD": "finite_grid_MCMC_only_dimension_gate_closed"
+  },
+  "datasets": {
+    "results/data/pilot_i3_biased.jsonl": {
+      "bytes": 32261,
+      "sha256": "6d64993559913379bcc2b08e17e22518493f98c1887314c49b5a13ad3a7f6a44"
+    },
+    "results/data/covariance_pilot.jsonl": {
+      "bytes": 609188,
+      "sha256": "099e4188a95d42bc6685a283f7eb8191d49ef3cd31dea0b55d353875c0fadfe0"
+    },
+    "results/data/i3_unbiased.jsonl": {
+      "bytes": 957609,
+      "sha256": "4ce341508cd749da10328113915cc2490a5afdd809afca67e2091a53fd270819"
+    },
+    "results/data/i3_biased.jsonl": {
+      "bytes": 1722034,
+      "sha256": "affaf68f7fe6d44da30d6577cb813fd07b822ea45f9c7cf44734daafdffd8aa8"
+    },
+    "results/data/i2_biased.jsonl": {
+      "bytes": 1318255,
+      "sha256": "ec7db2cebcae107fc6e608f32b0c166425c4daf0cb530587e8984a9048f3530d"
+    },
+    "results/data/sensitivity_exact_unbiased_identity.jsonl": {
+      "bytes": 53765,
+      "sha256": "77317d2ca2fa9e05a745eadc1f9df28ddc638e43d8f2a00d07e920b2512cdb0a"
+    },
+    "results/data/sensitivity_grid_o8_s128.jsonl": {
+      "bytes": 334103,
+      "sha256": "b73d13f5b6135b262ffb86774e8e5ed7edd162c47603168aea19e14dbdc8c615"
+    },
+    "results/data/sensitivity_grid_o2_s128.jsonl": {
+      "bytes": 334587,
+      "sha256": "494b5804f2b3d1c4a0ba50648ca218f8e3764c1672a655146f31857d75a5e71e"
+    },
+    "results/data/sensitivity_grid_o2_s32.jsonl": {
+      "bytes": 141291,
+      "sha256": "51c1b929a5cabe8d22c2b7bfd11360d864c98740cab886b1f577964b36278059"
+    },
+    "results/data/weyl_coupled.jsonl": {
+      "bytes": 1476846,
+      "sha256": "13412d9d45d0c4baad0881f878746c2090211a32a6106fc57c56d5d52bce8bc9"
+    },
+    "results/data/i3_biased_combined.jsonl": {
+      "bytes": 2313212,
+      "sha256": "ff0177024a04f6b59a549d77ba3182a544b814b88609041f34ae19cacfd1043b"
+    },
+    "results/data/i3_biased_high.jsonl": {
+      "bytes": 591178,
+      "sha256": "4207e1849775c98bd4791fd0684b8de816d37b73e89ae58c6420e4c8468823f1"
+    }
+  },
+  "test_report": "results/validation/test_results.xml"
+}
